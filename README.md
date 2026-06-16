@@ -2,6 +2,7 @@
 ### NeuralNomad | Travel Tech & AI Builder | Yerevan, Armenia 🇦🇲
 
 Operations professional turned AI builder. Curious mind. Practical builder. Travel tech enthusiast.
+> 🔒 Most repositories are private. Public: syunik-magic-guide · wander-armenia-trails · vayots-dzor-wine-tour · yerevan-secrets-app · armenian-music-box · Stone-Alphabet-Sounds · la-portfolio
 
 ---
 
