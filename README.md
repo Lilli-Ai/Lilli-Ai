@@ -1,8 +1,7 @@
-# Hi, I'm Lilia Avagyan 👋
+# Lilia Avagyan
 ### NeuralNomad | Travel Tech & AI Builder | Yerevan, Armenia 🇦🇲
 
 Operations professional turned AI builder. Curious mind. Practical builder. Travel tech enthusiast.
-> 🔒 Most repositories are private. Public: syunik-magic-guide · wander-armenia-trails · vayots-dzor-wine-tour · yerevan-secrets-app · armenian-music-box · Stone-Alphabet-Sounds · la-portfolio
 
 ---
 
@@ -40,4 +39,4 @@ Operations professional turned AI builder. Curious mind. Practical builder. Trav
 
 ## 📫 Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lil-ai-travel)
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=vercel)](https://lilia-ai.replit.app)
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=replit)](https://lilia-ai.replit.app)
