@@ -1,5 +1,5 @@
 # Lilia Avagyan
-### NeuralNomad | Travel Tech & AI Builder | Yerevan, Armenia 🇦🇲
+### NeuralNomad | AI Builder & Travel Tech  | Yerevan, Armenia 🇦🇲
 
 Operations professional turned AI builder. Curious mind. Practical builder. Travel tech enthusiast.
 
