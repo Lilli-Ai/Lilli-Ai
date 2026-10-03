@@ -83,4 +83,4 @@ Operations professional turned AI builder. Curious mind. Practical builder. Trav
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://www.linkedin.com/in/lil-ai-travel)
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=replit)](https://lilia-automation.manus.space/)
 [![Legacy Portfolio](https://img.shields.io/badge/Legacy_Portfolio-gray?logo=replit)](https://lilia-ai.replit.app)
-[![Final Projects](https://img.shields.io/badge/Final_Projects-black?logo=notion)](https://trusting-army-aa6.notion.site)
+[![Final Projects](https://img.shields.io/badge/Final_Projects-black?logo=notion)](https://trusting-army-aa6.notion.site/Final-Projects-Lilia-Avagyan-388d83f1bfe18095a4f0c05fc0570e62)
